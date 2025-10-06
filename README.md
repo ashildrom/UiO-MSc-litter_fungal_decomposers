@@ -1,4 +1,4 @@
-# UiO-MSc-litter_fungal_decomposers
+# UiO-MSc-fungal_litter_decomposers
 
 ## Information: otu_table_mumu_curated_ashild.xlsx
 ### Methodological information
