@@ -20,7 +20,7 @@ OTU_id: unique OTU ID, Taxonomy: SINTAX taxonomy with certainty value at each ta
 ### Data information
 Column description:
 
-Sample_name: (site ID, management type, mesh type and subplot), Sample_ID_demultiplexing: sample ID, SITE_PAIR: site pair (1-10), PLOT_ID: plot ID (1-20), SUBPLOT: subplot (1-120), SITE_ID: name of site, MANAGEMENT: management type (CC, NN), MESH_TYPE: mesh type (L, S), locality_id: (site name, management type, subplot), 
+Sample_name: (site ID, management type, mesh type and subplot), Sample_ID_demultiplexing: sample ID, SITE_PAIR: site pair (1-10), PLOT_ID: plot ID (1-20), SUBPLOT: subplot (1-120), SITE_ID: name of site, MANAGEMENT: management type (CC, NN), MESH_TYPE: mesh type (L, S), locality_id: (site name, management type, subplot), GDD0: Growing degree days per subplot, precip_Plot_ID_coll_3: precipitation per plot, N%: soil N% per plot, C/N: soil C:N ratio per plot, E3pH: soil pH per plot, percent_mass_loss: percent litter mass loss, ergosterol_new: litter ergosterol concentration, bioclim_10: mean temperature warmest quarter, bioclim_7: mean temperature annual range, vac.myr: bilberry cover.
 ## References
 
 
