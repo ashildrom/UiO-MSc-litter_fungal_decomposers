@@ -15,6 +15,8 @@ Column description:
 
 OTU_id: unique OTU ID, Taxonomy: SINTAX taxonomy with certainty value at each taxonomic level, Taxonomy_cuttoff: SINTAX taxonomy with 0.8 certainty cut-off value, OTUnumber: unique OTU number, Abundance: sequence reads per OTU, S002-S286: sample ID.
 ## Information: litterbags_sample_metadata_ashild.csv
+### General information
+Study site description from Asplund et al. (2024), environmental variables (bioclim_10, bioclim_7) from Horvath et al. (2019), bilberry cover data (vac.myr) from Karlsen (2024).
 ### Data information
 Column description:
 
@@ -25,6 +27,8 @@ Sample_name: (site ID, management type, mesh type and subplot), Sample_ID_demult
 Asplund, J., Nordén, J., Kjønaas, O. J., Madsen, R. L., Lunde, L. F., Birkemoe, T., Ronold, E. K., Norkute, M., Jansson, K. U., Karlsen, D. P., Sverdrup-Thygeson, A., Skrede, I., Methlie, I.-S. H., Maurice, S., Botten, U. G., Krok, R. J., Kauserud, H., & Nybakken, L. (2024). Long term effects of forest management on forest structure and dead wood in mature boreal forests. Forest Ecology and Management, 572, 122315. https://doi.org/10.1016/j.foreco.2024.122315
 
 Horvath, P., Halvorsen, R., Stordal, F., Tallaksen, L. M., Tang, H., & Bryn, A. (2019). Distribution modelling of vegetation types based on area frame survey data. Applied Vegetation Science, 22(4), 547–560. https://doi.org/10.1111/avsc.12451
+
+Karlsen, D. P. (2024). Clear cut forestry’s long-term effect on the understory vegetation. Master thesis, University of Oslo, Department of Biosciences, Oslo, Norway. https://www.duo.uio.no/handle/10852/111495
 
 
 
