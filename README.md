@@ -9,7 +9,7 @@ Column description:
 OTU_id: unique OTU ID, Taxonomy: SINTAX taxonomy with certainty value at each taxonomic level, Taxonomy_cuttoff: SINTAX taxonomy with 0.8 certainty cut-off value, Abundance: sequence reads per OTU, S001-S288: sample ID.
 ## Information: otu_table_filtered_ashild.xlsx
 ### Methodological information
-Filtered OTU table performed on otu_table_mumu_curated_ashild.xlsx. Non-fungal OTU´s, replicates and positive and negative controls removed. OTU´s removed if high abundance in negative control relative to biological samples. OTU´s from positive control removed. 
+Filtered OTU table performed on otu_table_mumu_curated_ashild.xlsx. Non-fungal OTU´s, replicates and positive and negative controls removed. OTU´s removed if high abundance in negative control relative to biological samples. Mock community from positive control removed. 
 ### Data information
 Column description:
 
