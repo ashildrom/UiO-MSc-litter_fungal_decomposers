@@ -14,7 +14,7 @@ Filtered OTU table performed on otu_table_mumu_curated_ashild.xlsx. Non-fungal O
 Column description:
 
 OTU_id: unique OTU ID, Taxonomy: SINTAX taxonomy with certainty value at each taxonomic level, Taxonomy_cuttoff: SINTAX taxonomy with 0.8 certainty cut-off value, OTUnumber: unique OTU number, Abundance: sequence reads per OTU, S002-S286: sample ID.
-## Information: litterbags_sample_metadata.csv
+## Information: litterbags_sample_metadata_ashild.csv
 ### Data information
 Column description:
 
