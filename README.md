@@ -15,12 +15,11 @@ Column description:
 
 OTU_id: unique OTU ID, Taxonomy: SINTAX taxonomy with certainty value at each taxonomic level, Taxonomy_cuttoff: SINTAX taxonomy with 0.8 certainty cut-off value, OTUnumber: unique OTU number, Abundance: sequence reads per OTU, S002-S286: sample ID.
 ## Information: litterbags_sample_metadata.csv
-### Methodological information
-
 ### Data information
 Column description:
 
 Sample_name: (site ID, management type, mesh type and subplot), Sample_ID_demultiplexing: sample ID, SITE_PAIR: site pair (1-10), PLOT_ID: plot ID (1-20), SUBPLOT: subplot (1-120), SITE_ID: name of site, MANAGEMENT: management type (CC, NN), MESH_TYPE: mesh type (L, S), locality_id: (site name, management type, subplot), GDD0: Growing degree days per subplot, precip_Plot_ID_coll_3: precipitation per plot, N%: soil N% per plot, C/N: soil C:N ratio per plot, E3pH: soil pH per plot, percent_mass_loss: percent litter mass loss, ergosterol_new: litter ergosterol concentration, bioclim_10: mean temperature warmest quarter, bioclim_7: mean temperature annual range, vac.myr: bilberry cover.
+
 ## References
 
 Asplund, J., Nordén, J., Kjønaas, O. J., Madsen, R. L., Lunde, L. F., Birkemoe, T., Ronold, E. K., Norkute, M., Jansson, K. U., Karlsen, D. P., Sverdrup-Thygeson, A., Skrede, I., Methlie, I.-S. H., Maurice, S., Botten, U. G., Krok, R. J., Kauserud, H., & Nybakken, L. (2024). Long term effects of forest management on forest structure and dead wood in mature boreal forests. Forest Ecology and Management, 572, 122315. https://doi.org/10.1016/j.foreco.2024.122315
